@@ -11,6 +11,7 @@
 4.   - [The Scope Chain](notes/3.md)
      - [ES6 Scope](notes/4.md)
 5.   - [Asynchronous Callbacks](notes/5.md)
+6.   - [Objects and Functions](notes/6.md)
 <hr>
 
 <br> 
