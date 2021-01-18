@@ -9,7 +9,8 @@
 2.   - [Single Threaded Synchronous Execution](notes/1.md)
 3.   - [Variable Environments](notes/2.md)
 4.   - [The Scope Chain](notes/3.md)
-
+     - [ES6 Scope](notes/4.md)
+5.   - [Asynchronous Callbacks](notes/5.md)
 <hr>
 
 <br> 
