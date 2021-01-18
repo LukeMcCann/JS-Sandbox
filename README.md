@@ -12,6 +12,7 @@
      - [ES6 Scope](notes/4.md)
 5.   - [Asynchronous Callbacks](notes/5.md)
 6.   - [Objects and Functions](notes/6.md)
+     - [Objects and Object Literals](notes/7.md)
 <hr>
 
 <br> 
